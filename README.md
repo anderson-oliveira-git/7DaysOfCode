@@ -4,6 +4,8 @@ Durante os próximos 7 dias, vou mergulhar em desafios de lógica de programaç�
 🔧 Como estou encarando o desafio:
 🕒 Reservando 1 hora por dia para resolver cada desafio com atenção;
 
+❌ Para tornar o desafio mais autêntico, estabeleci como regra pessoal não usar IAs durante a resolução dos desafios.
+
 🤝 Compartilhando a experiência com colegas para torná-la mais leve e divertida;
 
 📣 Publicando os resultados aqui e nas redes com a hashtag #7DaysOfCode.
